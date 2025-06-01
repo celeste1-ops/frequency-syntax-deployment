@@ -10,4 +10,4 @@
   • Glossary  
   • Use cases  
   • Response to Phenomenal Self-Model
-##🔒 This repository is also governed by FSA License (see FSALICENSE.md)
+  🔒 This repository is also governed by FSA License (see FSALICENSE.md)
