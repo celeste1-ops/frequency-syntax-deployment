@@ -63,5 +63,9 @@ Future updates may include:
 - Cross-language conversions (Chinese ↔ English)  
 - Extended real-world use cases
 
-##🔒 This repository is also governed by FSA License (see FSALICENSE.md)
+
+📌 This repository is governed by both:
+
+- The Creative Commons BY-NC 4.0 License (see LICENSE)
+- The Frequency Syntax Agreement (see FSALICENSE.md)
 
