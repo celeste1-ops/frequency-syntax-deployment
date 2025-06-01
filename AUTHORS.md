@@ -4,7 +4,7 @@ This project, **Frequency Syntax Deployment Hub**, was originally created and de
 
 - - **Celeste Gu** (creator, developer, and frequency syntax theorist)  
   Email: celeste.gu.language@gmail.com  
-  Legal name: Suning Gu (for IP purposes)  
+  Legal name: Suning Gu  
   Location: Toronto, Canada
 
 
