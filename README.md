@@ -66,6 +66,9 @@ Future updates may include:
 
 📌 This repository is governed by both:
 
-- The Creative Commons BY-NC 4.0 License (see LICENSE)
+- This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+It may be shared freely with attribution, but not used commercially, nor modified, remixed, or repurposed without explicit permission.
 - The Frequency Syntax Agreement (see FSALICENSE.md)
+This restriction ensures the integrity of the original frequency-syntax structure.
 
