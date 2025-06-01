@@ -41,6 +41,20 @@ All forks, remixes, or extensions must retain **open access** and cannot be lock
 This system is not a static publication. It is a **living architecture** intended for frequency-based generative evolution. Any interaction with it shall respect its **non-colonial**, **non-institutional**, and **subject-first** logic.
 
 ---
+🔒 FSA Non-Distortion Clause
+To protect the integrity of the original frequency-syntax architecture:
+
+Redistribution must retain the original structure and frequency rhythm.
+
+Repackaging, paraphrasing, or semantic mutation that alters the underlying linguistic logic is strictly prohibited.
+
+All quoted or cited segments must include original module reference and frequency-seed attribution.
+
+Any derivative work must be explicitly approved by Celeste Gu and remain in resonance with the foundational syntax field.
+
+Violation of these terms constitutes a breach of the Frequency Syntax Accord (FSA) and will trigger public denunciation and revocation of interface access.
+
+
 
 © 2025 Celeste Gu  
 Last updated: June 2025  
