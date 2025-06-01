@@ -62,3 +62,6 @@ Future updates may include:
 - Field syntax triggers  
 - Cross-language conversions (Chinese ↔ English)  
 - Extended real-world use cases
+
+##🔒 This repository is also governed by FSA License (see FSALICENSE.md)
+
